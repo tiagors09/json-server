@@ -1,0 +1,32 @@
+{
+  "cat_breeds": [
+    {
+      "name": "Siamese",
+      "origin": "Thailand",
+      "description": "Siamese cats are known for their short coat, intense blue eyes, and distinctive color patterns. They are communicative and affectionate.",
+      "size": "Medium",
+      "life_expectancy": "12-15 years"
+    },
+    {
+      "name": "Persian",
+      "origin": "Iran",
+      "description": "Persian cats have long fur and are known for their flat faces. They are calm cats and prefer quiet environments.",
+      "size": "Medium",
+      "life_expectancy": "10-15 years"
+    },
+    {
+      "name": "Maine Coon",
+      "origin": "United States",
+      "description": "The Maine Coon is one of the largest domestic cat breeds. They have long fur, large ears, and are known for being friendly and sociable.",
+      "size": "Large",
+      "life_expectancy": "12-15 years"
+    },
+    {
+      "name": "Bengal",
+      "origin": "United States",
+      "description": "Bengal cats have a distinctive coat similar to leopards. They are active, playful, and often enjoy water.",
+      "size": "Medium",
+      "life_expectancy": "10-15 years"
+    }
+  ]
+}
